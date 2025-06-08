@@ -2,8 +2,9 @@
 <h3 align="center">💻 Junior Developer | Passionate about Frontend & Web Technologies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+beautiful+UIs;Let's+learn+and+build+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F76C6C&width=435&lines=Welcome+to+my+GitHub!;I+love+building+beautiful+UIs;Let's+learn+and+build+together!+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
