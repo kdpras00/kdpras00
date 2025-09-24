@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: **Next.js, Supabase & Advanced Tailwind**
 - 💡 Always curious about how modern web works under the hood
 - 🎯 Goal: Become a fullstack developer focused on frontend performance
 - ⚡ Fun fact: I redesign things even if no one asked 😄
