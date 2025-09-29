@@ -1,8 +1,6 @@
 <h1 align="center">Ngoding Dulu Jagonya Belakangan👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!🚀;" alt="Typing SVG" />
-</p>
+
 
 ---
 
