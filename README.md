@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kurniawan Dwi Prasetyo</h1>
-<h3 align="center">💻 Junior Developer | Passionate about Frontend & Web Technologies</h3>
+<h1 align="center">Ngoding Dulu Jagonya Belakangan👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!🚀;" alt="Typing SVG" />
