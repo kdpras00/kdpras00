@@ -1,11 +1,4 @@
 <h1 align="center">Ngoding Dulu Jagonya Belakangan👋</h1>
-<h3 align="center">Fullstack Web Developer · React · Next.js · Laravel · Flutter · Go</h3>
-
-<p align="center">
-  <a href="https://kurniawandwipras.vercel.app">🌐 Portfolio</a> ·
-  <a href="https://linkedin.com/in/kurniawan-dwiprasetyo">💼 LinkedIn</a> ·
-  <a href="mailto:kdpras00@gmail.com">✉️ Email</a>
-</p>
 
 ---
 
