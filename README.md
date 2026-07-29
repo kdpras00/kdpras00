@@ -1,4 +1,4 @@
-<h1 align="center">Kurniawan Dwi Prasetyo 👋</h1>
+<h1 align="center">Ngoding Dulu Jagonya Belakangan👋</h1>
 <h3 align="center">Fullstack Web Developer · React · Next.js · Laravel · Flutter · Go</h3>
 
 <p align="center">
