@@ -2,18 +2,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Fullstack developer with a Computer Science background, focused on building production-ready systems across education, government, and commerce. I design and ship complete applications end-to-end — from database schema to responsive UI.
 
-- 🔨 Currently building with **React, Next.js, Laravel, and Go**
-- 📱 Mobile development with **Flutter**
-- 🌍 Based in Tangerang, Banten — open to remote roles
-- ⚡ Fun fact: I redesign things even if no one asked 😄
+- Currently building with **React, Next.js, Laravel, and Go**
+- Mobile development with **Flutter**
+- Based in Tangerang, Banten — open to remote roles
+- Fun fact: I redesign things even if no one asked 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Fullstack Web Developer (Internship)** — *Farovon Maju Bersama, South Jakarta*
 `April – June 2025`
